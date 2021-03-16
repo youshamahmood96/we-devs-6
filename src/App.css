@@ -1,0 +1,12 @@
+*{
+    margin:0;
+}
+h1{
+    text-align:center;
+}
+.completed{
+    text-decoration:line-through;
+}
+.not-editable{
+    border:0;
+}
